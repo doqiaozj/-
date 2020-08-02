@@ -7,7 +7,7 @@ title: Hexo
 subtitle: ''
 description: '这是一个演示站点'
 keywords:
-author: 橘子是橘猫
+author: 陡峭
 language: zh-CN
 timezone: ''
 
@@ -95,7 +95,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: fluid
 
 # 永久链接
 abbrlink:
