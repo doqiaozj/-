@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Blog
 subtitle: ''
-description: '这是一个演示站点'
+description: 'Gakki'
 keywords:
 author: 陡峭
 language: zh-CN
@@ -95,7 +95,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid
+theme: cards @ 1a76566
 
 # 永久链接
 abbrlink:
