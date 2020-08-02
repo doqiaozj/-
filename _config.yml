@@ -123,3 +123,5 @@ search:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
+  repo: https://github.com/doqiaozj/-.git
+  branch: master
